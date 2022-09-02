@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm XC0</h1>
-<h3 align="center">Java developer from Czech Republic</h3>
-
-- 🔭 I’m currently working on **Minecraft plugins**
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 My Discord **PrdMasterXx69Xx42069#8969**
+<h1 align="center">Howdy partner 👋🤠</h1>
 
 - ⚡ Fun fact: **The human anus can stretch up to 7 inches before taking damage. A raccoon can squeeze into holes as tight as 4 inches, Meaning you can take almost two full raccoons up your ass.**
 
